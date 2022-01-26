@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zogness
 - 👀 I’m interested in saltwater fishing.
-- 🌱 I’m currently kubernetes and portworx.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning kubernetes and portworx.
+- 💞️ I’m looking to collaborate on inequality.
 - 📫 How to reach me CurtGaudi on Telegram.
 
 <!---
